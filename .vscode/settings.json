@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\asus\\Downloads\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49.jar"
+    ]
+}
